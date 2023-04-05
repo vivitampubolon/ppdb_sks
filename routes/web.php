@@ -29,3 +29,39 @@ Route::get('/pilih_tahun_ajaran', function () {
     return view('pilih_tahun_ajaran');
 });
 
+Route::get('/pilih_program', function () {
+    return view('pilih_program');
+});
+
+Route::get('/lengkapi_data_pesdik', function () {
+    return view('lengkapi_data_pesdik');
+});
+
+Route::get('/formulir_pesdik', function () {
+    return view('formulir_pesdik');
+});
+
+Route::get('/formulir_ortu', function () {
+    return view('formulir_ortu');
+});
+
+Route::get('/formulir_asesmen1', function () {
+    return view('formulir_asesmen1');
+});
+
+Route::get('/formulir_asesmen2', function () {
+    return view('formulir_asesmen2');
+});
+
+Route::get('/formulir_asesmen3', function () {
+    return view('formulir_asesmen3');
+});
+
+Route::get('/formulir_asesmen4', function () {
+    return view('formulir_asesmen4');
+});
+Route::get('/level', function () {
+    return view('level');
+});
+
+

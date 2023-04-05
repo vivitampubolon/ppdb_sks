@@ -38,33 +38,43 @@
     
     <div class="w-full mt-8 bg-white border border-gray-200 rounded-lg shadow sm:p-6 dark:bg-gray-800 dark:border-gray-700">
         <h5 class="mb-3 text-base font-semibold text-gray-900 md:text-xl dark:text-white">
-            Pilih Lokasi Sekolah
+            Pilih Program Belajar
         </h5>
-        <p class="text-sm font-normal text-gray-500 dark:text-gray-400">Pilih satu lokasi seklah yang diinginkan</p>
+        <p class="text-sm font-normal text-gray-500 dark:text-gray-400">Pilih satu program </p>
         <ul class="my-4 space-y-3">
             <li>
                 <a href="#" class="flex items-center p-3 text-base font-bold text-gray-900 rounded-lg bg-gray-50 hover:bg-gray-100 group hover:shadow dark:bg-gray-600 dark:hover:bg-gray-500 dark:text-white">
-                    <span class="flex-1 ml-3 whitespace-nowrap">Homeschooling Kak Seto Pusat (Tangerang)</span>
+                    <span class="flex-1 ml-3 whitespace-nowrap">Komunitas</span>
                 </a>
             </li>
             <li>
                 <a href="#" class="flex items-center p-3 text-base font-bold text-gray-900 rounded-lg bg-gray-50 hover:bg-gray-100 group hover:shadow dark:bg-gray-600 dark:hover:bg-gray-500 dark:text-white">
-                    <span class="flex-1 ml-3 whitespace-nowrap">Homeschooling Kak Seto Bekasi</span>
+                    <span class="flex-1 ml-3 whitespace-nowrap">Komunitas Online Learning</span>
                 </a>
             </li>
             <li>
                 <a href="#" class="flex items-center p-3 text-base font-bold text-gray-900 rounded-lg bg-gray-50 hover:bg-gray-100 group hover:shadow dark:bg-gray-600 dark:hover:bg-gray-500 dark:text-white">
-                    <span class="flex-1 ml-3 whitespace-nowrap">Homeschooling Kak Seto Pekanbaru</span>
+                    <span class="flex-1 ml-3 whitespace-nowrap">Distance Learning</span>
                 </a>
             </li>
             <li>
                 <a href="#" class="flex items-center p-3 text-base font-bold text-gray-900 rounded-lg bg-gray-50 hover:bg-gray-100 group hover:shadow dark:bg-gray-600 dark:hover:bg-gray-500 dark:text-white">
-                    <span class="flex-1 ml-3 whitespace-nowrap">Homeschooling Kak Seto Surabaya</span>
+                    <span class="flex-1 ml-3 whitespace-nowrap">Distance Learning Tunggal</span>
                 </a>
             </li>
             <li>
                 <a href="#" class="flex items-center p-3 text-base font-bold text-gray-900 rounded-lg bg-gray-50 hover:bg-gray-100 group hover:shadow dark:bg-gray-600 dark:hover:bg-gray-500 dark:text-white">
-                    <span class="flex-1 ml-3 whitespace-nowrap">Homschooling Kak Seto Solo </span>
+                    <span class="flex-1 ml-3 whitespace-nowrap">Sekolah Khusus Kak Seto </span>
+                </a>
+            </li>
+            <li>
+                <a href="#" class="flex items-center p-3 text-base font-bold text-gray-900 rounded-lg bg-gray-50 hover:bg-gray-100 group hover:shadow dark:bg-gray-600 dark:hover:bg-gray-500 dark:text-white">
+                    <span class="flex-1 ml-3 whitespace-nowrap">Program Inklusi </span>
+                </a>
+            </li>
+            <li>
+                <a href="#" class="flex items-center p-3 text-base font-bold text-gray-900 rounded-lg bg-gray-50 hover:bg-gray-100 group hover:shadow dark:bg-gray-600 dark:hover:bg-gray-500 dark:text-white">
+                    <span class="flex-1 ml-3 whitespace-nowrap">Komunitas Berlian</span>
                 </a>
             </li>
         </ul>
