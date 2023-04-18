@@ -104,35 +104,36 @@
     <p>Apa alasan Bapak/Ibu memilih atau memindahkan anak Anda ke Sekolah Kak Seto? </p>
     <label for="message" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white"></label>
     <textarea id="message" rows="4" class="block p-2.5 w-full text-sm text-gray-900 bg-gray-50 rounded-lg border border-gray-300 focus:ring-blue-500 focus:border-blue-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder=""></textarea>
-    <p>Bagaimana Bapak/Ibu menggambarkan perilaku/karakteristik anak Anda pada saat di rumah atau saat melakukan kegiatan sehari-hari?</p>
+    <br><p>Bagaimana Bapak/Ibu menggambarkan perilaku/karakteristik anak Anda pada saat di rumah atau saat melakukan kegiatan sehari-hari?</p>
     <label for="message" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white"></label>
     <textarea id="message" rows="4" class="block p-2.5 w-full text-sm text-gray-900 bg-gray-50 rounded-lg border border-gray-300 focus:ring-blue-500 focus:border-blue-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder=""></textarea>
-    <p>Apa hambatan/permasalahan yang pernah dialami oleh anak (baik secara sosial maupun akademik)?</p>
+    <br><p>Apa hambatan/permasalahan yang pernah dialami oleh anak (baik secara sosial maupun akademik)?</p>
     <label for="message" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white"></label>
     <textarea id="message" rows="4" class="block p-2.5 w-full text-sm text-gray-900 bg-gray-50 rounded-lg border border-gray-300 focus:ring-blue-500 focus:border-blue-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder=""></textarea>
-    <p>Bagaimana hubungan anak anda dengan keluarga?Ceritakan sebuah pengalaman dimana anak Anda berinteraksi dengan saudaranya!</p>
+    <br><p>Bagaimana hubungan anak anda dengan keluarga?Ceritakan sebuah pengalaman dimana anak Anda berinteraksi dengan saudaranya!</p>
     <label for="message" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white"></label>
     <textarea id="message" rows="4" class="block p-2.5 w-full text-sm text-gray-900 bg-gray-50 rounded-lg border border-gray-300 focus:ring-blue-500 focus:border-blue-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder=""></textarea>
-    <p>Bagaimana hubungan anak anda dengan saudara-saudaranya</p>
+    <br><p>Bagaimana hubungan anak anda dengan saudara-saudaranya</p>
     <label for="message" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white"></label>
     <textarea id="message" rows="4" class="block p-2.5 w-full text-sm text-gray-900 bg-gray-50 rounded-lg border border-gray-300 focus:ring-blue-500 focus:border-blue-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder=""></textarea>
-    <p>Bagaimana pola asuh yang Anda terapkan?Ceritakan sebuah pengalaman dimana anak Anda dihadapkan pada sebuah aturan yang mengikat!</p>
+    <br><p>Bagaimana pola asuh yang Anda terapkan?Ceritakan sebuah pengalaman dimana anak Anda dihadapkan pada sebuah aturan yang mengikat!</p>
     <label for="message" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white"></label>
     <textarea id="message" rows="4" class="block p-2.5 w-full text-sm text-gray-900 bg-gray-50 rounded-lg border border-gray-300 focus:ring-blue-500 focus:border-blue-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder=""></textarea>
-    <p>Apa yang saat itu Anda lakukan</p>
+    <br><p>Apa yang saat itu Anda lakukan</p>
     <label for="message" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white"></label>
     <textarea id="message" rows="4" class="block p-2.5 w-full text-sm text-gray-900 bg-gray-50 rounded-lg border border-gray-300 focus:ring-blue-500 focus:border-blue-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder=""></textarea>
-    <p>Bagaimana respon dari anak anda</p>
+    <br><p>Bagaimana respon dari anak anda</p>
     <label for="message" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white"></label>
     <textarea id="message" rows="4" class="block p-2.5 w-full text-sm text-gray-900 bg-gray-50 rounded-lg border border-gray-300 focus:ring-blue-500 focus:border-blue-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder=""></textarea>
-    <p>Bagaimana harapan bapak/ibu inginkan dari peran seorang penutor</p>
+    <br><p>Bagaimana harapan bapak/ibu inginkan dari peran seorang penutor</p>
     <label for="message" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white"></label>
     <textarea id="message" rows="4" class="block p-2.5 w-full text-sm text-gray-900 bg-gray-50 rounded-lg border border-gray-300 focus:ring-blue-500 focus:border-blue-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder=""></textarea>
-    <p>Bagaimana harapan Bapak/Ibu terhadap anak selama menempuh pendidikan di Sekolah Kak Seto?</p>
+    <br><p>Bagaimana harapan Bapak/Ibu terhadap anak selama menempuh pendidikan di Sekolah Kak Seto?</p>
     <label for="message" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white"></label>
     <textarea id="message" rows="4" class="block p-2.5 w-full text-sm text-gray-900 bg-gray-50 rounded-lg border border-gray-300 focus:ring-blue-500 focus:border-blue-500 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder=""></textarea>
     <br>
     <h4 style="font-weight: 500; color:blue">Mohon diisi pada kolom yang tersedia</h4>
+    <br>
     <div class="flex items-center mb-4 ml-4">
         <input id="default-checkbox" type="checkbox" value="" class="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600">
         <label for="default-checkbox" class="ml-2 text-sm font-medium text-gray-900 dark:text-gray-300">Apakah anak Anda pernah mengikuti pemeriksaan psikologis?</label>

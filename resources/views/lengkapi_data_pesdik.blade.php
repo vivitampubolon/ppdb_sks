@@ -46,13 +46,14 @@
       </div>
       <br>
       <h4 style="font-weight: 500; color:blue">Data Orang Tua/Wali</h4>
-     
+     <br>
       <label for="countries" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Hubungan Keluarga</label>
           <select id="countries" class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500">
             <option selected>Pilih Hubungan</option>
             <option value="">Orang Tua</option>
             <option value="">Wali</option>
           </select>
+          <br>
           <div class="mb-6">
             <label for="email" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Nama (Sesuai yang tercantum pada NIK)</label>
             <input type="email" id="email" class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="" required>
@@ -66,7 +67,7 @@
             <input type="email" id="email" class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="" required>
           </div> 
           <br>
-          <h4 style="font-weight: 500; color:blue">Data Peserta Didik</h4>
+          <h4 style="font-weight: 500; color:blue">Data Peserta Didik</h4><br>
           <div class="mb-6">
             <label for="email" class="block mb-2 text-sm font-medium text-gray-900 dark:text-white">Nama Peserta Didik (Sesuai yang tercantum pada NIK)</label>
             <input type="email" id="email" class="bg-gray-50 border border-gray-300 text-gray-900 text-sm rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-blue-500 dark:focus:border-blue-500" placeholder="" required>
