@@ -48,7 +48,7 @@
       </ul>
     </div>
     <div class="w-full mt-8 bg-white border border-gray-200 rounded-lg shadow sm:p-6 dark:bg-gray-800 dark:border-gray-700">
-    <p>Saya</p>
+    
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.6.5/flowbite.min.js"></script>
 

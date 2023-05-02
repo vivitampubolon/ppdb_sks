@@ -64,6 +64,10 @@ Route::get('/level', function () {
     return view('level');
 });
 
+Route::get('/customerservice', function () {
+    return view('customerservice');
+});
+
 Route::get('/persyaratan', function () {
     return view('persyaratan');
 });
@@ -72,9 +76,6 @@ Route::get('/informasi', function () {
     return view('informasi');
 });
 
-Route::get('/customerservice', function () {
-    return view('customerservice');
-});
 
 
 
