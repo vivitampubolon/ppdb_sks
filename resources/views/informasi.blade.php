@@ -4,18 +4,6 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   @vite('resources/css/app.css')
-  <link href="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.6.5/flowbite.min.css" rel="stylesheet" />
- 
-</head>
-<body> 
-<!doctype html>
-<html>
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  @vite('resources/css/app.css')
-  <link href="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.6.5/flowbite.min.css" rel="stylesheet" />
- 
 </head>
 <body> 
 <nav class="bg-white border-gray-200 dark:bg-gray-900">
@@ -48,13 +36,86 @@
       </ul>
     </div>
     <div class="w-full mt-8 bg-white border border-gray-200 rounded-lg shadow sm:p-6 dark:bg-gray-800 dark:border-gray-700">
-    
+  
+    <img class="h-auto max-w-full" src="https://ppdb.sekolahkakseto.sch.id/images/Banner_PPDB_PAGE_HOME.png" alt="image description">
+   
+    <div class="bg-white py-24 sm:py-32">
+  <div class="mx-auto max-w-7xl px-6 lg:px-8">
+    <div class="mx-auto max-w-2xl lg:text-center">
+      <p class="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Sekolah Kak Seto</p>
+      <p class="mt-6 text-lg leading-8 text-gray-600">Sekolah Kak Seto adalah sekolah yang didirikan oleh Yayasan Kazeto Putra Perkasa (YKPP) sebagai bentuk komitmen untuk memberikan pelayanan pendidikan terbaik bagi anak-anak indonesia. Sekolah Kak Seto juga memberikan pilihan program yang bervariatif dan dapat disesuaikan dengan kebutuhan anak maupun orang tua.</p>
+    </div>
+    <div class="mx-auto mt-16 max-w-2xl sm:mt-20 lg:mt-24 lg:max-w-4xl">
+      <dl class="grid max-w-xl grid-cols-1 gap-x-8 gap-y-10 lg:max-w-none lg:grid-cols-2 lg:gap-y-16">
+        <div class="relative pl-16">
+          <dt class="text-base font-semibold leading-7 text-gray-900">
+            <div class="absolute left-0 top-0 flex h-10 w-10 items-center justify-center rounded-lg bg-indigo-600">
+            
+            </div>
+            Homeschooling Kak Seto Pusat (Tangerang Selatan)
+          </dt>
+          <dd class="mt-2 text-base leading-7 text-gray-600">Kak Seto School (KSS) dirancang dengan mengkolaborasi prinsip-prinsip pendidikan berbasis rumah (Homeschooling) yang lebih fleksibel dan menyenangkan dengan pendidikan formal pada umumnya.</dd>
+        </div>
+        <div class="relative pl-16">
+          <dt class="text-base font-semibold leading-7 text-gray-900">
+            <div class="absolute left-0 top-0 flex h-10 w-10 items-center justify-center rounded-lg bg-indigo-600">
+              
+            </div>
+            Homeschooling Kak Seto Bekasi
+          </dt>
+          <dd class="mt-2 text-base leading-7 text-gray-600">Kak Seto School (KSS) dirancang dengan mengkolaborasi prinsip-prinsip pendidikan berbasis rumah (Homeschooling) yang lebih fleksibel dan menyenangkan dengan pendidikan formal pada umumnya.</dd>
+        </div>
+        <div class="relative pl-16">
+          <dt class="text-base font-semibold leading-7 text-gray-900">
+            <div class="absolute left-0 top-0 flex h-10 w-10 items-center justify-center rounded-lg bg-indigo-600">
+             
+            </div>
+            Homeschooling Kak Seto Pekanbaru
+          </dt>
+          <dd class="mt-2 text-base leading-7 text-gray-600">Kak Seto School (KSS) dirancang dengan mengkolaborasi prinsip-prinsip pendidikan berbasis rumah (Homeschooling) yang lebih fleksibel dan menyenangkan dengan pendidikan formal pada umumnya.</dd>
+        </div>
+        <div class="relative pl-16">
+          <dt class="text-base font-semibold leading-7 text-gray-900">
+            <div class="absolute left-0 top-0 flex h-10 w-10 items-center justify-center rounded-lg bg-indigo-600">
+              
+            </div>
+            Homeschooling Kak Seto Surabaya
+          </dt>
+          <dd class="mt-2 text-base leading-7 text-gray-600">Kak Seto School (KSS) dirancang dengan mengkolaborasi prinsip-prinsip pendidikan berbasis rumah (Homeschooling) yang lebih fleksibel dan menyenangkan dengan pendidikan formal pada umumnya.</dd>
+        </div>
+        <div class="relative pl-16">
+          <dt class="text-base font-semibold leading-7 text-gray-900">
+            <div class="absolute left-0 top-0 flex h-10 w-10 items-center justify-center rounded-lg bg-indigo-600">
+             
+            </div>
+            Homeschooling Kak Seto Solo
+          </dt>
+          <dd class="mt-2 text-base leading-7 text-gray-600">Kak Seto School (KSS) dirancang dengan mengkolaborasi prinsip-prinsip pendidikan berbasis rumah (Homeschooling) yang lebih fleksibel dan menyenangkan dengan pendidikan formal pada umumnya.</dd>
+        </div>
+      </dl>
+    </div>
+  </div>
+</div>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/flowbite/1.6.5/flowbite.min.js"></script>
 
+<img class="h-auto max-w-lg" src="/docs/images/examples/image-1@2x.jpg" alt="image description">
+
+    </div>
+     <div>
+    <button class="relative inline-flex items-center justify-center p-0.5 mb-2 mt-8 mr-2 overflow-hidden text-sm font-medium text-gray-900 rounded-lg group bg-gradient-to-br from-cyan-500 to-blue-500 group-hover:from-cyan-500 group-hover:to-blue-500 hover:text-white dark:text-white focus:ring-4 focus:outline-none focus:ring-cyan-200 dark:focus:ring-cyan-800">
+      <span class="relative px-5 py-2.5 transition-all ease-in duration-75 bg-white dark:bg-gray-900 rounded-md group-hover:bg-opacity-0">
+          Selanjutnya
+      </span>
+    </button>
+    </div>
+
+  </div>
+</nav>
 </body>
+
 <footer class="bg-white rounded-lg shadow dark:bg-gray-900 m-4">
     <div class="w-full max-w-screen-xl mx-auto p-4 md:py-8">
+        
         <hr class="my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-8" />
         <span class="block text-sm text-gray-500 sm:text-center dark:text-gray-400">© 2023 <a href="https://sekolahkakseto.sch.id/" class="hover:underline">SekolahKakSeto™</a>. All Rights Reserved.</span>
     </div>
