@@ -76,6 +76,10 @@ Route::get('/informasi', function () {
     return view('informasi');
 });
 
+Route::get('/kaksetoschool', function () {
+    return view('kaksetoschool');
+});
+
 
 
 
